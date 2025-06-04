@@ -76,7 +76,7 @@
           <archive>
           <manifest>
             <addClasspath>true</addClasspath>
-            <mainClass>com.multit.App</mainClass> 
+            <mainClass>com.mvit.App</mainClass> 
           </manifest>
           </archive>
        </configuration>
